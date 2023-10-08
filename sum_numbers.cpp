@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    int number, sum = 0;
+    int numb, sum = 0;
 
     while (true) {
         std::cout << "Enter a positive integer (0 to exit): ";
